@@ -1,0 +1,2 @@
+# website
+『Nost/Wind』プロジェクトのWebサイトです。
