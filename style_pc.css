@@ -1,0 +1,55 @@
+/* PC用スタイルシート */
+
+* {
+	float:      none;
+	position:   static;
+	text-align: center;
+}
+
+main {
+	width:100%;
+	display:        inline-block;
+	vertical-align: top;
+}
+
+img {
+	max-width: 100%;
+	height:    auto;
+	margin:    10px 10px 10px 10px;
+}
+
+iframe {
+	width:     420px;
+	height:    300px;
+}
+
+p {
+	font-size  :100%;
+}
+
+a {
+	font-size  :100%;
+	line-height:1.5;
+}
+
+ul {
+	font-size  :100%;
+}
+
+textarea {
+	height: 90px;
+	width:  420px;
+	text-align: left;
+}
+
+
+.big {
+	font-size: 150%;
+}
+
+.small {
+	font-size: 75%;
+}
+
+
+

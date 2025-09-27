@@ -1,0 +1,63 @@
+/* スマホ用設定 */
+
+* {
+	float:      none;
+	position:   static;
+	text-align: center;
+}
+
+main {
+	width:100%;
+	display:        inline-block;
+	vertical-align: top;
+}
+
+img {
+	max-width: 90%;
+	height:    auto;
+	margin:    10px 10px 10px 10px;
+}
+
+iframe {
+	max-width: 90%;
+	height:    220px;
+	margin:    10px 10px 10px 10px;
+}
+
+p {
+	font-size  :75%;
+}
+
+a {
+	font-size  :110%;
+	line-height:1.5;
+}
+
+ul {
+	font-size  :75%;
+}
+
+td 
+{
+	font-size  :75%;
+}
+
+textarea {
+	height:     90px;
+	width:      90%;
+	max-width:  420px;
+	text-align: left;
+}
+
+.big {
+	font-size: 150%;
+}
+
+.small {
+	font-size: 70%;
+}
+
+
+
+
+
