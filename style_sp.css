@@ -7,7 +7,7 @@
 }
 
 main {
-	width:100%;
+	width:　　　　　　100%;
 	display:        inline-block;
 	vertical-align: top;
 }
@@ -25,21 +25,23 @@ iframe {
 }
 
 p {
-	font-size  :75%;
+	font-size:　75%;
 }
 
 a {
-	font-size  :110%;
-	line-height:1.5;
+	font-size:       110%;
+	color:           #000000;
+	text-decoration: underline;
+	line-height:     1.5;
 }
 
 ul {
-	font-size  :75%;
+	font-size:　75%;
 }
 
 td 
 {
-	font-size  :75%;
+	font-size:　75%;
 }
 
 textarea {
@@ -56,8 +58,5 @@ textarea {
 .small {
 	font-size: 70%;
 }
-
-
-
 
 
