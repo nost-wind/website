@@ -1,5 +1,5 @@
 # website
-『Nost/Wind』プロジェクトのWebサイトです。
+『Nost/Wind』プロジェクトWebサイトのHTMLデータです。
 
- This repository is a web site of "Nost/Wind" project.
+ This repository is a web site data of "Nost/Wind" project.
 
