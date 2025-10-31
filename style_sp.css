@@ -29,7 +29,7 @@ p {
 }
 
 a {
-	font-size:       110%;
+	font-size:       100%;
 	color:           #000000;
 	text-decoration: underline;
 	line-height:     1.5;
@@ -61,6 +61,7 @@ textarea {
 .small {
 	font-size: 70%;
 }
+
 
 
 
