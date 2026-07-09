@@ -37,9 +37,14 @@ a:hover {
 	color:           #FF0000;
 }
 
-
 ul {
 	font-size: 100%;
+}
+
+hr {
+	padding:    20px 0;
+	border:     none;
+	border-top: 2px solid #A0A0B0
 }
 
 textarea {
@@ -54,7 +59,7 @@ textarea {
 }
 
 .small {
-	font-size: 75%;
+	font-size: 80%;
 }
 
 

@@ -25,26 +25,23 @@ iframe {
 }
 
 p {
-	font-size:　70%;
+	font-size:　75%;
 }
 
 a {
-	font-size:       100%;
+	font-size:       110%;
 	color:           #000000;
 	text-decoration: underline;
 	line-height:     1.5;
 }
 
 ul {
-	font-size:　80%;
-}
-ul li {
-	font-size:  80%;
+	font-size:　75%;
 }
 
 td 
 {
-	font-size:　80%;
+	font-size:　75%;
 }
 
 textarea {
@@ -55,20 +52,11 @@ textarea {
 }
 
 .big {
-	font-size: 125%;
+	font-size: 150%;
 }
 
 .small {
 	font-size: 70%;
 }
-
-
-
-
-
-
-
-
-
 
 
